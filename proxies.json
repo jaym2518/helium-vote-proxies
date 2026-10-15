@@ -15,12 +15,4 @@
     "detail": "./proxies/ferebee/detail.md",
     "networks": ["HNT", "MOBILE", "IOT"]
   },
-  {
-    "wallet": "84Q9QQ1DeqsbeBMiaKuh2Vk1wrfKirkZXBrTKyLL2apU",
-    "name": "Jay M.",
-    "image": "./proxies/jaym2518/image.png",
-    "description": "Jay M.",
-    "detail": "./proxies/jaym2518/detail.md",
-    "networks": ["HNT", "MOBILE"]
-  }
 ]
